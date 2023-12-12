@@ -1,5 +1,12 @@
 # ai
 
+## 2.2.30
+
+### Patch Changes
+
+- 5220336: ai/svelte: Add experimental_onToolCall to useChat.
+- 5220336: Add experimental_onToolCall to OpenAIStream.
+
 ## 2.2.29
 
 ### Patch Changes
